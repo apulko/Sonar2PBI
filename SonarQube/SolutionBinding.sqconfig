@@ -1,0 +1,10 @@
+{
+  "ServerUri": "http://35tkntfssonarq:9000/",
+  "ProjectKey": "SonarqTFSIntegrationPK",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "cs-sonar-way-19087",
+      "ProfileTimestamp": "2016-07-19T14:17:33+03:00"
+    }
+  }
+}
